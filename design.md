@@ -1,5 +1,6 @@
 # Group Assignment
 
+**190007, 189595, 190377**
 ## Question 1: Design the agent using the PEAS framework and classify its environment
 
 Based on the PEAS framework for a self-driving car, the following design is proposed for a self-driving trailer travelling on Kenya's highway network.
